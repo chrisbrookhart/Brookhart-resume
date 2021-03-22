@@ -84,23 +84,19 @@ Achievements
 
 __Brigham Young University-Idaho__
 
-- Computer Science (Machine Learning emphasis), expected completion: December 2021
-- 4.0 GPA
-
-
-__BYU Pathway Connect__
-
+- Computer Science 
+_Machine Learning emphasis; expected completion: December 2021_
 - 4.0 GPA
 
 __Brigham Young University Law School__
 
-- Juris Doctor, _cum laude_
+- JD, _cum laude_
 - Journal of Public Law
 
 __Brigham Young University__
 
-- Political Science
-- Presidential Scholarship (4 Years, Full Tuition)
+- BS, Political Science
+- Presidential Scholarship (4 years, full tuition)
 
 
 
@@ -127,7 +123,9 @@ __Brigham Young University__
 ## Technical Skills
 
 Areas of Interest: Machine Learning, Data Science, Artificial Intelligence
+
 Languages: C++, Python, Java, Javascript, HTML, CSS
+
 Other: GitHub, VSCode, XCode, Colab
 
 <!-- ### Footer
