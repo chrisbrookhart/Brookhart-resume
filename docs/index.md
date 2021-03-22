@@ -1,89 +1,137 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Chris Brookhart's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
+# Chris Brookhart
 
 <div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
+<a href="chrisbrookhart@gmail.com">chrisbrookhart@gmail.com</a>
+| <a href="https://www.linkedin.com/in/chrisbrookhart/">LinkedIn</a>
+| <a href="https://github.com/chrisbrookhart">GitHub</a>
 </div>
 
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
+## Professional Summary
+General counsel uniquely experienced in advising technology companies. Experienced in leading strategic initiatives, including IPOs and M&A transactions. Excellent interpersonal skills that earn the trust of key constituencies, including boards of directors and executive management. Outstanding analytical skills to assess and mitigate risk.  Skilled in building a culture of ethics and compliance across the organization.
+
+## Expertise
+
+Intellectual Property / Software Licensing / SaaS / Data Privacy & Security / Advising Boards of Directors / Corporate Governance /   Mergers and Acquisitions / Financing Transactions / SEC Compliance / Policy Implementation / Commercial Contracts / International Agreements / Law Department Management / Legal Writing / Business Development 
+
+
+## Experience
+
+####Senior Vice President, Business Strategy & General Counsel
+_Scientific Learning - 2012-2020_ 
+_EdTech SaaS company_
+
+Remotely led all legal and general corporate governance functions; led other business teams and initiatives as required. Served as a strategic business advisor to the company’s board of directors, CEO and executive team. Coordinated closely with internal stakeholders, including Finance, Marketing, Sales and Product Development to achieve strategic objectives while mitigating risk. Advised on and supported sales and strategic transactions. Managed outside counsel with a view towards balancing risk and cost.
+
+Achievements
+-	Implemented company’s GDPR and other data privacy policies
+-	Directed and delivered all legal aspects of a successful M&A exit transaction.
+-	Delivered five equity and debt financing rounds.
+-	Initiated and led patent monetization efforts, resulting in a patent sale contributing 8% of total 2014 revenue.
+
+
+####Associate General Counsel
+_Ancestry.com - 2008-2012_
+_Consumer SaaS company_
+
+Led strategic legal initiatives, including public securities and M&A transactions. Negotiated software and intellectual property agreements. Implemented company policies for a newly public company, including code of conduct and insider trading policies. Managed public company filing activities.
+
+Achievements
+-	Prepared the company for its $100 million initial public offering and directed the IPO and post-IPO legal activities.
+-	Negotiated fixed fee arrangements with IPO-related vendors resulting in $500K+ savings.
+-	Led and closed three M&A acquisition transactions.
+
+
+####Senior Corporate Counsel
+_Novell – 2006 – 2008_
+_Enterprise software company_
+
+Negotiated commercial agreements with technology vendors and business development partners. Reviewed open-source software issues. Implemented policy and practice changes to reduce IP risks. Managed public company filing activities.
+
+Achievements
+-	Negotiated technology collaboration agreement with Microsoft as part of a $450M+ strategic partnering transaction.
+-	Completed risk management program designed to reduce legal risk from open source software practices.
+
+
+####Senior Transactions Manager
+_Honeywell - 2003-2006_
+_Aerospace company_
+
+Negotiated sales contracts with commercial and government aircraft OEMs and airlines in over 20 countries. 
+
+Achievements
+-	Negotiated master agreement to govern all Honeywell Aerospace sales to Boeing Military ($1B+ annually).
+-	Served as lead commercial attorney in recovering $30M in a major contract dispute with company's 2nd largest customer.
+-	Proactively developed and presented proposal to reduce Honeywell legal expense by moving non-exportable work to low-cost U.S. regions. Appointed to lead a corporate-wide team to implement the proposal.
+
+
+#### Corporate Associate
+_Dow, Lohnes and Albertson – 1999 – 2003_
+_Law firm_
+
+Negotiated and drafted legal documents for securities, M&A and loan transactions. Drafted ’33 Act and ’34 Act public company securities filings. 
+
+Achievements
+-	Provided legal support for securities transactions with an aggregate value of over $7.0 billion.
+
+
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+__Brigham Young University-Idaho__
 
-- Full academic scholarship with 4.0 GPA
-
-`Expected 2029`
-__Brigham Young University - Idaho__, Rexburg, ID
-
-- 4.0 Major GPA
+- Computer Science (Machine Learning emphasis), expected completion: December 2021
+- 4.0 GPA
 
 
-## Related Experience
+__BYU Pathway Connect__
 
-### Internships
+- 4.0 GPA
 
-`January 2028 - June 2028`
-__Pacific Northwest National Lab__, Richland, WA
+__Brigham Young University Law School__
 
-- Worked on novel methods for soil sampling to reduce laboratory measurements
-- Used R and Visual Sample Plan to establish new sampling algorithms
-- Published a journal article in Environmental Quality.
+- Juris Doctor, _cum laude_
+- Journal of Public Law
 
-### Data Science Lead
+__Brigham Young University__
 
-`April 2027 - June 2027`
-__Westmark Credit Union__, Consultant
-
-- Developed a predicted model to support Westmark in custumer conversion from dealer loans.
-- Used R and Python to build a machine learning model using CatBoost in Python and the Tidyverse for data visualization and munging. 
-- Improved previous model development to over 85% balanced accuracy. Expect model to be implemented in Westmark business practices.
-
-`September 2027 - April 2028`
-__Good2Go__, Consultant
-
-- Built product ordering and supply predictive algorithms for chips and beverages categories
-- Established standardized SQL calls and connections for PowerBI dashboards
-- Found over $35k in waste and saved over 200 annual hours of store quality control work 
-
-### Data Science Consulting Team
-
-`January 2027 - April 2027`
-__Imagine Learning__
-
-- Build web scraping tool to find and format school district technology data.
-- Used R and the Rvest package to parse and format web data.
-- Saved 30 hours a month with the automated scripts.
-
-`April 2027 - July 2027`
-__Pinnacle Management Group__, 
-
-- Proof of concept development of dashboards using client's corporate data.
-- Built and documented differences of PowerBI, Google Dashoards, and Tableau.
-- Saved client $10k in database and dashboard server fees and validated future dashboard processes.
+- Political Science
+- Presidential Scholarship (4 Years, Full Tuition)
 
 
-## Service and Work History
 
-`2025-2027`
-__Math Tutor__, LDSBC
+## Certifications
 
+- Utah Bar (active)
+- Six Sigma Greenbelt
+- Project Management
 
-`2023-2025`
-__Service Missionary__, South Africa
+## Patents Held
 
+  - Techniques for Information Collaboration
+  _U.S. Patent #8,843,831_
 
+  - System and Method for Associating a Photo with a Data Structure Node
+  _U.S. Patent #8,837,787_ 
+ 
+  - System and Method for Estimating/Determining the Date of a Photo
+  _U.S. Patent #9,251,394_
+  
+  - System and Method for Organizing Documents
+  _U.S. Patent #9,030,502_
+
+## Technical Skills
+
+Areas of Interest: Machine Learning, Data Science, Artificial Intelligence
+Languages: C++, Python, Java, Javascript, HTML, CSS
+Other: GitHub, VSCode, XCode, Colab
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: March 2021 -->
 
 
