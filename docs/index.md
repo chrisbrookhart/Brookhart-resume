@@ -110,17 +110,13 @@ __Brigham Young University__
 
 ## Patents Held
 
-- Techniques for Information Collaboration
-_U.S. Patent #8,843,831_
+- Techniques for Information Collaboration, _U.S. Patent #8,843,831_
 
-- System and Method for Associating a Photo with a Data Structure Node
-_U.S. Patent #8,837,787_ 
+- System and Method for Associating a Photo with a Data Structure Node, _U.S. Patent #8,837,787_ 
 
-- System and Method for Estimating/Determining the Date of a Photo
-_U.S. Patent #9,251,394_
+- System and Method for Estimating/Determining the Date of a Photo, _U.S. Patent #9,251,394_
 
-- System and Method for Organizing Documents
-_U.S. Patent #9,030,502_
+- System and Method for Organizing Documents, _U.S. Patent #9,030,502_
 
 ## Technical Skills
 
