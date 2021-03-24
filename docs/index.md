@@ -22,7 +22,9 @@ Intellectual Property / Software Licensing / SaaS / Data Privacy & Security / Ad
 
 ## Experience
 
-#### Senior Vice President, Business Strategy & General Counsel
+
+
+**Senior Vice President, Business Strategy & General Counsel**
 _Scientific Learning - 2012-2020_ 
 _EdTech SaaS company_
 
@@ -35,7 +37,7 @@ Achievements
 -	Initiated and led patent monetization efforts, resulting in a patent sale contributing 8% of total 2014 revenue.
 
 
-#### Associate General Counsel
+**Associate General Counsel**
 _Ancestry.com - 2008-2012_
 _Consumer SaaS company_
 
@@ -47,7 +49,7 @@ Achievements
 -	Led and closed three M&A acquisition transactions.
 
 
-#### Senior Corporate Counsel
+**Senior Corporate Counsel**
 _Novell – 2006 – 2008_
 _Enterprise software company_
 
@@ -58,7 +60,7 @@ Achievements
 -	Completed risk management program designed to reduce legal risk from open source software practices.
 
 
-#### Senior Transactions Manager
+**Senior Transactions Manager**
 _Honeywell - 2003-2006_
 _Aerospace company_
 
@@ -70,7 +72,7 @@ Achievements
 -	Proactively developed and presented proposal to reduce Honeywell legal expense by moving non-exportable work to low-cost U.S. regions. Appointed to lead a corporate-wide team to implement the proposal.
 
 
-#### Corporate Associate
+**Corporate Associate**
 _Dow, Lohnes and Albertson – 1999 – 2003_
 _Law firm_
 
